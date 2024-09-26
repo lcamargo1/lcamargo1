@@ -3,7 +3,7 @@ Atualmente estudante de Ciências Atuariais, com atuação profissional voltada 
 
 ---
 <div id="badges">
-  <a href="linkedin.com/in/lucas-camargo-b0b615122">
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2FGpZ8NgFQROBk0%2B10FqGpw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
