@@ -17,7 +17,8 @@ Atualmente estudante de Ciências Atuariais, com atuação profissional voltada 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Sql Server" alt="Sql Server" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
-  <img src="https://pt.wikipedia.org/wiki/Ficheiro:SAS_logo_horiz.svg" title="SAS" alt="SAS" width="40" height="40"/>&nbsp;
+  <img src="https://logosandtypes.com/wp-content/uploads/2020/08/sas.svg" title="SAS" alt="SAS" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" title="Alteryx" alt="Alteryx" width="40" height="40"/>&nbsp;
 </div>
 
 
